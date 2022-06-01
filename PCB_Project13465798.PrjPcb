@@ -36,6 +36,7 @@ IsVirtualBomDocumentRemoved=0
 OutputPath=Project Outputs
 LogFolderPath=..\Panel Templates\Project Logs
 ManagedProjectGUID=
+VcsMigrated=60168B7A-5A34-43B4-AD5A-869BB65A5348|1EA71948-BC54-4C6E-A906-0E602E3F979D
 IncludeDesignInRelease=0
 CrossRefSheetStyle=1
 CrossRefLocationStyle=1
